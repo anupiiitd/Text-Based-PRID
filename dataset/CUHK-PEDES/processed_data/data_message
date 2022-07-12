@@ -1,0 +1,4 @@
+good words: 1762, total_words: 3194, good_word_rate: 55.165936%
+train_img_num: 6445, train_id_num: 1881, train_caption_num: 12906, 
+test_img_num: 535, test_id_num: 159, test_caption_num: 1070, 
+val_img_num: 625, val_id_num: 184, val_caption_num: 1252, 
